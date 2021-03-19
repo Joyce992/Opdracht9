@@ -1,0 +1,21 @@
+
+.container {
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.blogpost { 
+    width: 300px; 
+    height: 300px;
+    border: 1px solid black;
+}
+
+.drie {
+    align-self: flex-end;
+    flex-grow: 2;
+}
+
+
